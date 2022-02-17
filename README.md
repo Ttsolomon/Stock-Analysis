@@ -17,4 +17,7 @@ This analysis will help the client Steve in guiding and giving sound advice to h
 ###Summary
 
 The advantages and disadvantages of refactoring code 
+
+
+
 How do these pros and cons apply to refactoring the original VBA script
